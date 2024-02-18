@@ -8,7 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Data Transformation](data-transformation)
 - [Data Visualisation](#data-visualisation)
-- [Insights](#insights)
+- [Results](#results)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -23,7 +23,7 @@ This is a data analysis project that aims to provide insights into the sales per
 ![Sales Forecast](https://github.com/erabhi95/SuperStore-Sales-Data-Analysis-using-Power-BI/assets/159037337/440414ce-bca5-49e6-9c3b-190abaf56541)
 
 ### Data Sources
-The primary dataset used for this analysis are the 'SuperStore Sales dataset' , containg detailed information about the sales made by the store.
+The primary dataset used for this analysis are the 'SuperStore Sales dataset' excel data , containg detailed information about the sales made by the store.
 
 ### Tools
 Microsoft Excel
@@ -33,11 +33,12 @@ Microsoft Excel
 - Profit Amount
 - Order Count
 - Category
-- Age Group ( Adults, Teenager, Senior )
+- Sub-Category
+- Ship Mode
+- Region
+- Segment
+- Payment Mode
 - State
-- Channel ( Platforms used for sales )
-- Order Status ( Delivered, Refunded, Returned, Cancelled )
-- Selling Category ( Types of Product )
     
 ### Data Cleaning
 1. Data loading and inspection.
@@ -54,13 +55,11 @@ Microsoft Excel
 
 ### Exploratory Data Analysis
 EDA is performed on the Sales data to answer some key questions, such as:
-- Which month got the highest sale and orders?
-- Who purchased more- Men or Women in 2022?
-- What are the different order status in 2022?
-- What are the top 10 states contributing to the sales?
-- What is the Relation between Age and gender based on number of orders 
-- Which channel is contributing to the maximum sales?
-- Which is the Highest selling category?
+- What is the sales distribution as per different categories and sub-categories of products?
+- What is the sales distribution as per different modes of shipping opted by the customers based on the delivery urgency?
+- What is the sales distribution across different regions?
+- What is the sales distribution across various Segments depending upon usecase?
+- What is the sales distribution across different day analysis/
   
 ### Results
 - Highest Sales & Orders are placed in the month of March.
