@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-This is a data analysis project that aims to provide insights into the sales performance of SuperStore. By analysing various aspects of the sales data , we  seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This is a data analysis project that aims to provide insights into the sales performance of a SuperStore. By analysing various aspects of the sales data , we  seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 **Final Report**
 
@@ -30,8 +30,9 @@ Microsoft Excel
 
 ### KPIs Considered
 - Sales Amount
+- Profit Amount
 - Order Count
-- Gender ( Men/Women )
+- Category
 - Age Group ( Adults, Teenager, Senior )
 - State
 - Channel ( Platforms used for sales )
