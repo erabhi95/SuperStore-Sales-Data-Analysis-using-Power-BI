@@ -8,6 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Data Transformation](data-transformation)
 - [Data Visualisation](#data-visualisation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
 
