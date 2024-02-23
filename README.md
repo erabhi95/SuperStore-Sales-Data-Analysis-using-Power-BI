@@ -13,7 +13,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-This is a data analysis project that aims to provide insights into the sales performance of a SuperStore. By analysing various aspects of the sales data , we seek to identify trends, make data-driven recommendations, and gain a deeper understanding to enhance the store's performance in terms of growth, efficiency and customer satisfaction.
+This is a data analysis project that aims to provide insights into the sales performance of a SuperStore. By analysing various aspects of the sales data , we seek to identify trends, gain a deeper understanding of the data and make data-driven recommendations to enhance the store's performance in terms of growth, efficiency and customer satisfaction.
 Also, we seek to leverage the historic data to forecast the sales values for next 15 days.
 
 **Final Report**
