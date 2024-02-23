@@ -51,7 +51,7 @@ Microsoft Power BI
 1. Created new columns and measures using DAX queries to get more insights out of the available data which are further used during dashboard creation.
    
 ### Data Visualisation
-1. Created an interactive dashboard using sales data that gives real time information about the sales records as per user's choice.
+1. Created an interactive dashboard using sales data that gives information about the sales trends as per user's choice.
 2. Performed forecasting for next 15 days based on the historic data using Power BI.
 
 ### Exploratory Data Analysis
