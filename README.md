@@ -13,7 +13,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-This is a data analysis project that aims to provide insights into the sales performance of a SuperStore. By analysing various aspects of the sales data , we seek to identify trends, gain a deeper understanding of the data and make data-driven recommendations to enhance the store's performance in terms of growth, efficiency and customer satisfaction.
+This is a data analysis project that aims to provide insights into the sales performance of a SuperStore. By analyzing various aspects of the sales data , we seek to identify trends, gain a deeper understanding of the data and make data-driven recommendations to enhance the store's performance in terms of growth, efficiency and customer satisfaction.
 Also, we seek to leverage the historic data to forecast the sales values for next 15 days.
 
 **Final Report**
@@ -25,7 +25,7 @@ Also, we seek to leverage the historic data to forecast the sales values for nex
 ![Sales Forecast](https://github.com/erabhi95/SuperStore-Sales-Data-Analysis-using-Power-BI/assets/159037337/440414ce-bca5-49e6-9c3b-190abaf56541)
 
 ### Data Sources
-The primary dataset used for this analysis are the 'SuperStore Sales dataset' excel data , containg detailed information about the sales made by the store.
+The primary dataset used for this analysis are the 'SuperStore Sales dataset' excel data , containing detailed information about the sales made by the store.
 
 ### Tools
 Microsoft Power BI
