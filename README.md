@@ -1,5 +1,6 @@
 # SuperStore Sales Data Analysis
-
+### Power BI Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiZDBmMzJkOWItZGQ5Mi00ODk4LTg3ZjItMjU5YmI2YmFiYTVjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
