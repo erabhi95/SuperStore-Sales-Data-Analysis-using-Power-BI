@@ -19,11 +19,12 @@ Also, we seek to leverage the historic data to forecast the sales values for nex
 
 **Final Report**
 
-![Final Dashboard](https://github.com/erabhi95/SuperStore-Sales-Data-Analysis-using-Power-BI/assets/159037337/3ab05a47-b4bc-4e3f-bd4e-068419bab4ac)
+![Final Dashboard](https://github.com/erabhi95/SuperStore-Sales-Data-Analysis-using-Power-BI/assets/159037337/3796e2ef-767a-483d-844f-2b171bee6b60)
 
 **Sales Forecast**
 
-![Sales Forecast](https://github.com/erabhi95/SuperStore-Sales-Data-Analysis-using-Power-BI/assets/159037337/440414ce-bca5-49e6-9c3b-190abaf56541)
+![Sales Forecast](https://github.com/erabhi95/SuperStore-Sales-Data-Analysis-using-Power-BI/assets/159037337/b8f51f4a-a552-4a9b-be2d-ba6155a6086e)
+
 
 ### Data Sources
 The primary dataset used for this analysis are the 'SuperStore Sales dataset' excel data , containing detailed information about the sales made by the store.
